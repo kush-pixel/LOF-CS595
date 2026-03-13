@@ -1,0 +1,110 @@
+{
+  "session_id": "demo-poor-001",
+  "turns": [
+    {
+      "turn_number": 1,
+      "speaker": "Student",
+      "content": "So you have chest pain. When did it start?"
+    },
+    {
+      "turn_number": 2,
+      "speaker": "Patient",
+      "content": "About three hours ago. I was going up stairs at work and it just hit me."
+    },
+    {
+      "turn_number": 3,
+      "speaker": "Student",
+      "content": "Okay. Is it sharp or dull?"
+    },
+    {
+      "turn_number": 4,
+      "speaker": "Patient",
+      "content": "It's more like a pressure, like someone sitting on my chest. It goes to my left arm and jaw."
+    },
+    {
+      "turn_number": 5,
+      "speaker": "Student",
+      "content": "Alright. I think this could be a myocardial infarction. We should get a troponin and ECG stat."
+    },
+    {
+      "turn_number": 6,
+      "speaker": "Patient",
+      "content": "A what? What does that mean? Am I having a heart attack?"
+    },
+    {
+      "turn_number": 7,
+      "speaker": "Student",
+      "content": "Possibly. A myocardial infarction is when blood flow to the heart is blocked. The troponin is a cardiac biomarker that tells us if there's myocardial necrosis. We need to rule out STEMI versus NSTEMI based on the ECG findings."
+    },
+    {
+      "turn_number": 8,
+      "speaker": "Patient",
+      "content": "I don't understand what any of that means. Can you explain in simpler terms? I'm really scared right now. My dad died from a heart attack."
+    },
+    {
+      "turn_number": 9,
+      "speaker": "Student",
+      "content": "Right. So do you have any medical conditions?"
+    },
+    {
+      "turn_number": 10,
+      "speaker": "Patient",
+      "content": "I have high blood pressure, high cholesterol, and diabetes. But I'm really worried — can you tell me if I'm going to be okay?"
+    },
+    {
+      "turn_number": 11,
+      "speaker": "Student",
+      "content": "We'll figure it out. What medications are you on?"
+    },
+    {
+      "turn_number": 12,
+      "speaker": "Patient",
+      "content": "Lisinopril, atorvastatin, metformin, and aspirin."
+    },
+    {
+      "turn_number": 13,
+      "speaker": "Student",
+      "content": "Any allergies?"
+    },
+    {
+      "turn_number": 14,
+      "speaker": "Patient",
+      "content": "Penicillin."
+    },
+    {
+      "turn_number": 15,
+      "speaker": "Student",
+      "content": "Okay, I think we have enough. Let me go order those tests."
+    },
+    {
+      "turn_number": 16,
+      "speaker": "Patient",
+      "content": "Wait, don't you want to know anything else? You didn't even ask about my family or if I smoke."
+    },
+    {
+      "turn_number": 17,
+      "speaker": "Student",
+      "content": "Oh right. Do you smoke?"
+    },
+    {
+      "turn_number": 18,
+      "speaker": "Patient",
+      "content": "I quit two years ago but I smoked a pack a day for 20 years."
+    },
+    {
+      "turn_number": 19,
+      "speaker": "Student",
+      "content": "Got it. Anything else?"
+    },
+    {
+      "turn_number": 20,
+      "speaker": "Patient",
+      "content": "Well, my dad had a heart attack at 58. He died. That's why I'm so worried."
+    },
+    {
+      "turn_number": 21,
+      "speaker": "Student",
+      "content": "Okay. I'll go order the tests now."
+    }
+  ]
+}

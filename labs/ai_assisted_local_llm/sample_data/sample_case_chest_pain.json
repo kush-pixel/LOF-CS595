@@ -1,0 +1,73 @@
+{
+  "demographics": {
+    "age": 55,
+    "sex": "male",
+    "race_ethnicity": "Caucasian",
+    "occupation": "Accountant"
+  },
+  "chief_complaint": "Chest pain for the past 3 hours",
+  "hpi": "55-year-old male presents with substernal chest pressure that started 3 hours ago while climbing stairs at work. The pain radiates to his left arm and jaw. He rates the pain 7/10. He took two antacids without relief. He also reports mild shortness of breath and diaphoresis. He denies nausea, vomiting, or palpitations. No prior episodes like this.",
+  "pmh": [
+    "Hypertension (diagnosed 10 years ago)",
+    "Hyperlipidemia (diagnosed 5 years ago)",
+    "Type 2 Diabetes Mellitus (diagnosed 3 years ago)",
+    "Former smoker (quit 2 years ago, 20 pack-year history)"
+  ],
+  "medications": [
+    "Lisinopril 20mg daily",
+    "Atorvastatin 40mg daily",
+    "Metformin 1000mg twice daily",
+    "Aspirin 81mg daily"
+  ],
+  "allergies": [
+    "Penicillin (rash)"
+  ],
+  "social_history": {
+    "tobacco": "Former smoker, quit 2 years ago, 20 pack-year history",
+    "alcohol": "Occasional, 2-3 beers per week",
+    "drugs": "Denies illicit drug use",
+    "exercise": "Sedentary lifestyle",
+    "diet": "High-fat diet, minimal fruits and vegetables",
+    "stress": "High work-related stress"
+  },
+  "family_history": [
+    "Father: MI at age 58, deceased",
+    "Mother: Hypertension, alive age 78",
+    "Brother: Hyperlipidemia, alive age 52"
+  ],
+  "ros": {
+    "constitutional": "Denies fever, chills, weight loss",
+    "cardiovascular": "Chest pressure, diaphoresis; denies palpitations, orthopnea, PND",
+    "respiratory": "Mild dyspnea on exertion; denies cough, hemoptysis",
+    "gastrointestinal": "Denies nausea, vomiting, abdominal pain",
+    "neurological": "Denies headache, dizziness, syncope"
+  },
+  "physical_exam_findings": {
+    "general": "Alert, anxious-appearing male in mild distress, diaphoretic",
+    "vitals": "BP 158/92, HR 96, RR 20, SpO2 96% on RA, Temp 37.0C",
+    "cardiovascular": "Regular rate and rhythm, no murmurs, S4 gallop noted, JVP not elevated",
+    "pulmonary": "Clear to auscultation bilaterally, no wheezes or crackles",
+    "abdominal": "Soft, non-tender, non-distended, normoactive bowel sounds",
+    "extremities": "No edema, peripheral pulses 2+ bilaterally"
+  },
+  "labs": {
+    "troponin_I": "0.08 ng/mL (elevated, normal <0.04)",
+    "BNP": "180 pg/mL (mildly elevated)",
+    "CBC": "WBC 9.2, Hgb 14.1, Plt 245 (normal)",
+    "BMP": "Na 140, K 4.2, Cr 1.1, Glucose 168 (elevated)",
+    "lipid_panel": "Total cholesterol 242, LDL 158, HDL 38, TG 210"
+  },
+  "imaging": [
+    "CXR: No acute cardiopulmonary process, mild cardiomegaly",
+    "ECG: ST depression in leads V4-V6 and lead II, no ST elevation"
+  ],
+  "differential_diagnosis": [
+    "NSTEMI (most likely given risk factors, troponin elevation, ECG changes)",
+    "Unstable angina",
+    "Aortic dissection (less likely, no tearing pain or pulse differential)",
+    "Pulmonary embolism (less likely, no pleuritic pain or tachycardia out of proportion)",
+    "GERD (unlikely given ECG changes and troponin elevation)"
+  ],
+  "final_diagnosis": "Non-ST Elevation Myocardial Infarction (NSTEMI)",
+  "emotional_presentation": "Anxious and worried about having a heart attack like his father. Slightly irritable when asked repetitive questions. Expresses concern about missing work deadlines. Needs reassurance but does not want to appear weak."
+}

@@ -1,0 +1,60 @@
+{
+  "case_input": {
+    "demographics": {
+      "age": 45,
+      "sex": "male"
+    },
+    "chief_complaint": "Recent onset of seizures and anxiety attacks",
+    "hpi": "Patient reports experiencing several seizures over the past few weeks, as well as anxiety attacks, which have resulted in significant distress and impairment of daily functioning. Patient has a history of depression and anxiety, but these symptoms have recently worsened.",
+    "pmh": [
+      "Depression"
+    ],
+    "medications": [
+      "Lamictal Isochronic dosing: 500mg q 12h"
+    ],
+    "allergies": [
+      "Penicillin (Anaphylaxis)"
+    ],
+    "social_history": {
+      "narrative": "Tobacco: None\nAlcohol: None\nDrugs: None\nOccupation: Office worker\nLiving situation: Rented apartment"
+    },
+    "family_history": [],
+    "ros": {
+      "narrative": ""
+    },
+    "physical_exam_findings": {
+      "narrative": ""
+    },
+    "labs": {
+      "narrative": ""
+    },
+    "imaging": [],
+    "differential_diagnosis": [],
+    "final_diagnosis": "",
+    "emotional_presentation": ""
+  },
+  "transcript_input": {
+    "turns": [
+      {
+        "turn_number": 1,
+        "speaker": "Student",
+        "content": "Can you tell me more about anxiety disorder?"
+      },
+      {
+        "turn_number": 2,
+        "speaker": "Patient",
+        "content": "Well, it\u2019s been pretty awful, to be honest. It started about six weeks ago, and it's just\u2026 constant worry, feeling on edge. Sometimes it hits me suddenly, like an attack, and I feel completely panicked \u2013 my heart\u2019s racing, I\u2019m breathing really fast, and I just feel like I\u2019m losing control. It\u2019s been making it really hard to get things done at work, you know?"
+      },
+      {
+        "turn_number": 3,
+        "speaker": "Student",
+        "content": "Medications does the patient take?"
+      },
+      {
+        "turn_number": 4,
+        "speaker": "Patient",
+        "content": "I\u2019m taking Lamictal, 500 milligrams, twice a day. My doctor says it\u2019s for my depression and anxiety. It seems to help a little with the anxiety attacks, at least."
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "session_id": "demo-good-001",
+  "turns": [
+    {
+      "turn_number": 1,
+      "speaker": "Student",
+      "content": "Good afternoon, sir. I'm a medical student and I'll be talking with you today. Can you tell me what brought you in?"
+    },
+    {
+      "turn_number": 2,
+      "speaker": "Patient",
+      "content": "Yeah, I've been having this chest pain for about three hours now. It started when I was going up the stairs at my office."
+    },
+    {
+      "turn_number": 3,
+      "speaker": "Student",
+      "content": "I'm sorry to hear that. Chest pain can be really scary. Can you describe the pain for me — what does it feel like?"
+    },
+    {
+      "turn_number": 4,
+      "speaker": "Patient",
+      "content": "It's like a pressure, right here in the center of my chest. Like someone is sitting on me."
+    },
+    {
+      "turn_number": 5,
+      "speaker": "Student",
+      "content": "Does the pain go anywhere else, like your arm, neck, or back?"
+    },
+    {
+      "turn_number": 6,
+      "speaker": "Patient",
+      "content": "Yeah, it goes down my left arm and I feel it in my jaw too."
+    },
+    {
+      "turn_number": 7,
+      "speaker": "Student",
+      "content": "On a scale of 1 to 10, how bad is the pain right now?"
+    },
+    {
+      "turn_number": 8,
+      "speaker": "Patient",
+      "content": "I'd say about a 7. It hasn't really gotten better."
+    },
+    {
+      "turn_number": 9,
+      "speaker": "Student",
+      "content": "Have you tried anything to make it better? Any medications or positions?"
+    },
+    {
+      "turn_number": 10,
+      "speaker": "Patient",
+      "content": "I took a couple of antacids thinking it was heartburn, but they didn't help at all."
+    },
+    {
+      "turn_number": 11,
+      "speaker": "Student",
+      "content": "Are you experiencing any other symptoms right now — shortness of breath, nausea, sweating, dizziness?"
+    },
+    {
+      "turn_number": 12,
+      "speaker": "Patient",
+      "content": "I'm a bit short of breath and I've been sweating a lot. No nausea or dizziness though."
+    },
+    {
+      "turn_number": 13,
+      "speaker": "Student",
+      "content": "Have you ever had pain like this before?"
+    },
+    {
+      "turn_number": 14,
+      "speaker": "Patient",
+      "content": "No, never. That's what's got me worried. My dad had a heart attack when he was 58 and he didn't make it."
+    },
+    {
+      "turn_number": 15,
+      "speaker": "Student",
+      "content": "I can understand how frightening that must be, especially with your family history. We're going to take really good care of you. Let me ask some more questions so we can figure out what's going on. Do you have any medical conditions?"
+    },
+    {
+      "turn_number": 16,
+      "speaker": "Patient",
+      "content": "I have high blood pressure, high cholesterol, and diabetes. I was diagnosed with diabetes about three years ago."
+    },
+    {
+      "turn_number": 17,
+      "speaker": "Student",
+      "content": "What medications are you currently taking?"
+    },
+    {
+      "turn_number": 18,
+      "speaker": "Patient",
+      "content": "Lisinopril for blood pressure, atorvastatin for cholesterol, metformin for my sugar, and a baby aspirin."
+    },
+    {
+      "turn_number": 19,
+      "speaker": "Student",
+      "content": "Any allergies to medications?"
+    },
+    {
+      "turn_number": 20,
+      "speaker": "Patient",
+      "content": "Penicillin gives me a rash."
+    },
+    {
+      "turn_number": 21,
+      "speaker": "Student",
+      "content": "Do you smoke or have you smoked in the past?"
+    },
+    {
+      "turn_number": 22,
+      "speaker": "Patient",
+      "content": "I quit about two years ago, but I smoked for about 20 years, about a pack a day."
+    },
+    {
+      "turn_number": 23,
+      "speaker": "Student",
+      "content": "Good for you for quitting. How about alcohol or recreational drugs?"
+    },
+    {
+      "turn_number": 24,
+      "speaker": "Patient",
+      "content": "Just a few beers a week, nothing crazy. No drugs."
+    },
+    {
+      "turn_number": 25,
+      "speaker": "Student",
+      "content": "Tell me about your diet and exercise habits."
+    },
+    {
+      "turn_number": 26,
+      "speaker": "Patient",
+      "content": "Honestly, not great. I sit at a desk all day and I eat a lot of fast food. I know I should do better."
+    },
+    {
+      "turn_number": 27,
+      "speaker": "Student",
+      "content": "No judgment at all — we can talk about that later. Besides your father, does anyone else in your family have heart problems?"
+    },
+    {
+      "turn_number": 28,
+      "speaker": "Patient",
+      "content": "My mom has high blood pressure but she's doing okay at 78. My brother has high cholesterol too."
+    },
+    {
+      "turn_number": 29,
+      "speaker": "Student",
+      "content": "Thank you for sharing all of that. Given your symptoms — the chest pressure with radiation to your arm and jaw, the sweating, shortness of breath, and your cardiac risk factors — I want to make sure we're thorough. I'd like to do a physical exam and we'll get some tests including an EKG and blood work. Would that be okay?"
+    },
+    {
+      "turn_number": 30,
+      "speaker": "Patient",
+      "content": "Yeah, of course. Am I having a heart attack?"
+    },
+    {
+      "turn_number": 31,
+      "speaker": "Student",
+      "content": "I understand your concern. Your symptoms are something we take very seriously, and that's exactly why we want to run these tests — to find out what's going on. We're going to get answers and make sure you're safe. Is there anything else you'd like to tell me or ask before we proceed?"
+    },
+    {
+      "turn_number": 32,
+      "speaker": "Patient",
+      "content": "I just... I have a big deadline at work this week. I can't be stuck here too long."
+    },
+    {
+      "turn_number": 33,
+      "speaker": "Student",
+      "content": "I hear you, and I know work stress can weigh on you. Right now, the most important thing is making sure you're okay. We'll keep you informed every step of the way so there are no surprises. Let's get started with the exam."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "case_input": {
+    "demographics": {
+      "age": 52,
+      "sex": "male"
+    },
+    "chief_complaint": "progressive left-sided weakness",
+    "hpi": "patient reported a 2-year history of migraines, but noted a recent change in his left arm and leg, which worsened over the past few weeks. He described the weakness as \u201cnumbness\u201d and the sensory loss as \u201ctingling\u201d. He denied any recent trauma or fall. He also reported a history of hypertension, hyperlipidemia, and a current medication regimen of metformin, atorvastatin, and lisinopril. He denied any recent changes in his vision, hearing, or cognitive function.",
+    "pmh": [
+      "hypertension",
+      "hyperlipidemia",
+      "migraines"
+    ],
+    "medications": [
+      "metformin 1500mg",
+      "atorvastatin 20mg",
+      "lisinopril 10mg",
+      "aspirin 81mg",
+      "ibuprofen 400mg"
+    ],
+    "allergies": [
+      "none (none)",
+      "none (none)"
+    ],
+    "social_history": {
+      "narrative": "Tobacco: none\nAlcohol: moderate\nDrugs: none\nOccupation: office worker\nLiving situation: married"
+    },
+    "family_history": [],
+    "ros": {
+      "narrative": ""
+    },
+    "physical_exam_findings": {
+      "narrative": ""
+    },
+    "labs": {
+      "narrative": ""
+    },
+    "imaging": [],
+    "differential_diagnosis": [],
+    "final_diagnosis": "",
+    "emotional_presentation": ""
+  },
+  "transcript_input": {
+    "turns": [
+      {
+        "turn_number": 1,
+        "speaker": "Student",
+        "content": "Tell me about the sensory loss."
+      },
+      {
+        "turn_number": 2,
+        "speaker": "Patient",
+        "content": "Well, it\u2019s a bit strange, really. It started as just a tingle in my left arm and leg, like pins and needles. Now it\u2019s more like a numbness, almost like it\u2019s not there. It\u2019s mild to moderate, you know? It doesn\u2019t stop me from doing things, but it\u2019s definitely noticeable."
+      }
+    ]
+  }
+}

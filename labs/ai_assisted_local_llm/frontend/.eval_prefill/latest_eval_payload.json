@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "conversation_id": "e805fb24-1efd-4408-8054-96a5bbcfefea",
+    "case_number": 3,
+    "created_at": "2026-03-09T19:51:58.822567+00:00"
+  },
+  "case_input": {
+    "demographics": {
+      "age": 45,
+      "sex": "male"
+    },
+    "chief_complaint": "Recent onset of seizures and anxiety attacks",
+    "hpi": "Patient reports experiencing several seizures over the past few weeks, as well as anxiety attacks, which have resulted in significant distress and impairment of daily functioning. Patient has a history of depression and anxiety, but these symptoms have recently worsened.",
+    "pmh": [
+      "Depression"
+    ],
+    "medications": [
+      "Lamictal Isochronic dosing: 500mg q 12h"
+    ],
+    "allergies": [
+      "Penicillin (Anaphylaxis)"
+    ],
+    "social_history": {
+      "narrative": "Tobacco: None\nAlcohol: None\nDrugs: None\nOccupation: Office worker\nLiving situation: Rented apartment"
+    },
+    "family_history": [],
+    "ros": {
+      "narrative": ""
+    },
+    "physical_exam_findings": {
+      "narrative": ""
+    },
+    "labs": {
+      "narrative": ""
+    },
+    "imaging": [],
+    "differential_diagnosis": [],
+    "final_diagnosis": "",
+    "emotional_presentation": ""
+  },
+  "transcript_input": {
+    "turns": [
+      {
+        "turn_number": 1,
+        "speaker": "Student",
+        "content": "What is epilepsy?"
+      },
+      {
+        "turn_number": 2,
+        "speaker": "Patient",
+        "content": "Honestly, I don\u2019t really know what epilepsy *is*, exactly. I\u2019ve been having these seizures, and the doctor keeps talking about it, but I\u2019m still trying to understand it all. It seems like it\u2019s something that can cause a sudden change in your brain activity, right?"
+      }
+    ]
+  }
+}
